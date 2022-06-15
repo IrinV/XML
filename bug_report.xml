@@ -1,0 +1,13 @@
+<?xml version=«1.0» encoding=«UTF-8»?>
+<Bug_report>
+  <Bug_id>102</Bug_id>
+  <Title>The SAVE DATA button is smaller than the others buttons </Title>
+  <Severity>trivial</Severity>
+  <Priority>low</Priority>
+  <Environment>Samsung Galaxy s10e, Android 12</Environment>
+  <Environment>Huawei P30, EMUI 12.0.0.132</Environment>
+  <Environment>Honor 8X, Android v. 10.0.0.261</Environment>
+  <AR>The application buttons have one view</AR>
+  <ER>The SAVE DATA button is smaller than the others</ER>
+  <Attachment>https://drive.google.com/file/d/1ehl6btawxi2NbNtwKYwE4VhvKWUaWL_M/view?usp=sharing</Attachment>
+</Bug_report>
